@@ -15,5 +15,5 @@ This project is created using Microsoft Power BI to analyze customer data based 
 - Microsoft Excel
 
 ## Files
-- Customer_Segmentation_Dashboard.pbix
-- Customer_Segmentation_Dataset.xlsx
+- Customer_data_Dashboard.pbix
+- Customer_data.xlsx
